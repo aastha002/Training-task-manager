@@ -9,7 +9,7 @@ function App() {
     return (
       <div className="flex flex-col items-center justify-center min-h-screen gap-8 bg-pink-100">
         <h1 className="text-4xl font-bold text-pink-700">
-          Internship Task Manager
+          Training Task Manager
         </h1>
         <div className="flex gap-8">
           <button
